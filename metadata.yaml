@@ -1,0 +1,43 @@
+_repo: Apologia-pro-Vita-Sua_19690
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Newman, John Henry
+    aliases:
+    - Newman, J. H. (John Henry)
+    - Newman, John Henry, Cardinal
+    birthdate: 1801
+    deathdate: 1890
+    gutenberg_agent_id: '8264'
+    url: http://www.gutenberg.org/2009/agents/8264
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Newman
+description: "Apologia Pro Vita Sua (Latin: A defence of one's own life) is John Henry\
+  \ Newman's defence of his religious opinions, published in 1864 in response to Charles\
+  \ Kingsley of the Church of England after Newman quit his position as the Anglican\
+  \ vicar of St. Mary's, Oxford.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19690'
+  wikidata: Q2743363
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Doctrines'
+- !lcsh 'Cardinals -- England -- Biography'
+- !lcsh 'Newman, John Henry, 1801-1890'
+- !lcsh 'Catholic Church -- Apologetic works'
+- !lcc 'BX'
+title: Apologia pro Vita Sua
+url: http://www.gutenberg.org/ebooks/19690
+wikipedia:
+- https://eo.wikipedia.org/wiki/Apologia_pro_vita_sua
+- https://en.wikipedia.org/wiki/Apologia_Pro_Vita_Sua
+- https://fr.wikipedia.org/wiki/Apologia_Pro_Vita_Sua
+- https://es.wikipedia.org/wiki/Apologia_Pro_Vita_Sua
+- https://it.wikipedia.org/wiki/Apologia_Pro_Vita_Sua

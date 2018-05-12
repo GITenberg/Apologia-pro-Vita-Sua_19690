@@ -18,6 +18,8 @@ description: "Apologia Pro Vita Sua (Latin: A defence of one's own life) is John
   \ Newman's defence of his religious opinions, published in 1864 in response to Charles\
   \ Kingsley of the Church of England after Newman quit his position as the Anglican\
   \ vicar of St. Mary's, Oxford.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19690#Apologia-pro-Vita-Sua
 gutenberg_issued: '2006-10-31'
 gutenberg_type: Text
 identifiers:
